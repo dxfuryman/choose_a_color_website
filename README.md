@@ -17,7 +17,7 @@ The Simon Game is a fun and challenging memory game where the goal is to remembe
 
 ## Demo
 
-[Visit my website](https://dxfuryman.github.io/simon-game/) - Add a link to the live demo if available.
+[Visit my website](https://dxfuryman.github.io/simon-game/) Simon Game
 
 ## How to Play
 
